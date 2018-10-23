@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="29" family="Times" color="#333333"/>
+	<fontspec id="1" size="11" family="Times" color="#333333"/>
+	<fontspec id="2" size="11" family="Times" color="#3379b7"/>
+	<fontspec id="3" size="11" family="Times" color="#333333"/>
+	<fontspec id="4" size="9" family="Times" color="#999999"/>
+	<fontspec id="5" size="177" family="Times" color="#000000"/>
+<text top="82" left="720" width="109" height="32" font="0"><b>Invoice</b></text>
+<text top="1161" left="64" width="591" height="13" font="1">Payment is due within 30 days from date of invoice. Late payment is subject to fees of 5% per month.</text>
+<text top="1180" left="64" width="123" height="13" font="1">Thanks for choosing </text>
+<text top="1180" left="186" width="139" height="13" font="2">DEMO - Sliced Invoices</text>
+<text top="1180" left="326" width="11" height="13" font="1"> | </text>
+<text top="1180" left="336" width="159" height="13" font="2">admin@slicedinvoices.com</text>
+<text top="1198" left="64" width="53" height="13" font="1">Page 1/1</text>
+<text top="187" left="64" width="37" height="13" font="3"><b>From:</b></text>
+<text top="205" left="64" width="139" height="13" font="2">DEMO - Sliced Invoices</text>
+<text top="224" left="64" width="84" height="13" font="1">Suite 5A-1204</text>
+<text top="243" left="64" width="135" height="13" font="1">123 Somewhere Street</text>
+<text top="262" left="64" width="115" height="13" font="1">Your City AZ 12345</text>
+<text top="281" left="64" width="159" height="13" font="1">admin@slicedinvoices.com</text>
+<text top="178" left="523" width="92" height="13" font="1">Invoice Number</text>
+<text top="178" left="678" width="56" height="13" font="1">INV-3337</text>
+<text top="202" left="523" width="84" height="13" font="1">Order Number</text>
+<text top="202" left="678" width="37" height="13" font="1">12345</text>
+<text top="226" left="523" width="73" height="13" font="1">Invoice Date</text>
+<text top="226" left="678" width="102" height="13" font="1">January 25, 2016</text>
+<text top="249" left="523" width="56" height="13" font="1">Due Date</text>
+<text top="249" left="678" width="102" height="13" font="1">January 31, 2016</text>
+<text top="273" left="523" width="60" height="13" font="3"><b>Total Due</b></text>
+<text top="273" left="678" width="40" height="13" font="3"><b>$93.50</b></text>
+<text top="351" left="64" width="21" height="13" font="3"><b>To:</b></text>
+<text top="370" left="64" width="83" height="13" font="1">Test Business</text>
+<text top="389" left="64" width="112" height="13" font="1">123 Somewhere St</text>
+<text top="408" left="64" width="125" height="13" font="1">Melbourne, VIC 3000</text>
+<text top="427" left="64" width="85" height="13" font="1">test@test.com</text>
+<text top="499" left="79" width="48" height="13" font="3"><b>Hrs/Qty</b></text>
+<text top="499" left="154" width="47" height="13" font="3"><b>Service</b></text>
+<text top="499" left="520" width="65" height="13" font="3"><b>Rate/Price</b></text>
+<text top="499" left="660" width="41" height="13" font="3"><b>Adjust</b></text>
+<text top="499" left="757" width="60" height="13" font="3"><b>Sub Total</b></text>
+<text top="536" left="90" width="26" height="13" font="1">1.00</text>
+<text top="528" left="154" width="72" height="13" font="1">Web Design</text>
+<text top="544" left="154" width="156" height="12" font="4">This is a sample description...</text>
+<text top="536" left="545" width="40" height="13" font="1">$85.00</text>
+<text top="536" left="663" width="37" height="13" font="1">0.00%</text>
+<text top="536" left="776" width="40" height="13" font="1">$85.00</text>
+<text top="590" left="596" width="56" height="13" font="1">Sub Total</text>
+<text top="590" left="776" width="40" height="13" font="1">$85.00</text>
+<text top="614" left="630" width="22" height="13" font="1">Tax</text>
+<text top="614" left="784" width="33" height="13" font="1">$8.50</text>
+<text top="638" left="621" width="32" height="13" font="3"><b>Total</b></text>
+<text top="638" left="776" width="40" height="13" font="3"><b>$93.50</b></text>
+<text top="708" left="64" width="60" height="13" font="1">ANZ Bank</text>
+<text top="727" left="64" width="105" height="13" font="1">ACC # 1234 1234</text>
+<text top="746" left="64" width="96" height="13" font="1">BSB # 4321 432</text>
+<text top="627" left="354" width="269" height="180" font="5"><b>Paid</b></text>
+</page>
+</pdf2xml>
